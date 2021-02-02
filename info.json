@@ -1,0 +1,26 @@
+{
+  "name": "Zoe Li",
+  "website": "https://zoe-creator.github.io/",
+  "linkedin": "https://www.linkedin.com/in/lizhenwen727/",
+  "github": "Zoe-creator",
+  "email": "zoeli0204@gmail.com",
+  "resume": "https://zoeli.github.io/assets/Zoe-Li-Resume.pdf",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "Vue",
+      "Node",
+      "Express",
+      "Mongodb",
+      "PostgreSQL",
+      "Python",
+      "Django",
+      "Wordpress",
+      "Drupal"
+  ],
+  "otherSkills": [
+      "Unagi",
+      "Five Finger Fillet",
+      "Bridge"
+  ]
+}
